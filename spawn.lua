@@ -29,3 +29,5 @@ mc.regConsoleCmd("spawnreload", "spawnreload", function(pl)
     colorLog("red", "Spawn Reloaded. Change to Dimid:"..Dimid..", x:" .. X .. " y:" .. Y.. " z:" .. Z, "\n")
 
 end)
+
+print('[\27[92mCRON\27[0m] \27[93mSpawnCMD loaded\27[0m')
